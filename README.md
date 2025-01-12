@@ -13,7 +13,7 @@
 * 🤝 Minha buddy é a querida Cibele!
 
 
-## Tecnologias que Uso
+## Tecnologias que tenho experiência:
 
 <div>
   <a href="https://www.python.org/" target="_blank">
