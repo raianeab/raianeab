@@ -1,17 +1,15 @@
-## Olá, tudo bem? Eu sou Raiane! Bem-vindo(a) ao meu repositório!
-
+## Oi, tudo bem? Eu sou Raiane!
 ***
-
-#### Diretamente da Chapada Diamantina, Bahia. Apaixonada por tecnologia e projetos sociais, já participei de projetos impactantes, checagendo informações, desenvolvendo aplicativos, sites e dispositivos e principalmnete ajudando pessoas. Sou muito  curiosa e tenho um gosto variado sobre tudo, musica, literatura, filmes. Minha palavra é interdicipplinaridade, adoro misturar tecnologia com outras areas do conhecimento. 
-
-
-###Eu adoro andar de moto e bicicleta! É minha forma favorita de explorar o mundo, sentindo o vento no rosto. Dizem que o importante é manter o equilíbrio, mas se pudesse eu andaria mais sobre duas rodas do que com as próprias pernas.
+* Diretamente da Chapada Diamantina, Bahia. Apaixonada por tecnologia e projetos sociais, Participo de projetos impactantes, checagendo informações, desenvolvendo aplicativos, sites e dispositivos e principalmnete ajudando pessoas. Minha palavra é interdicipplinaridade, adoro misturar tecnologia com outras areas do conhecimento.
+  
+* Cursando: Ciências da Computação no Instituto de Tecnologia e Liderança - INTELI
+  
+*  Curioidade: Eu adoro andar de moto e bicicleta! É minha forma favorita de explorar o mundo, sentindo o vento no rosto. Dizem que o importante é manter o equilíbrio, mas se pudesse eu andaria mais sobre duas rodas do que com as próprias pernas.
 
 ***
 
 Minha buddy é a Cibele!
 
-***
 
 
 
