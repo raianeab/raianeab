@@ -1,18 +1,3 @@
-# Oi, tudo bem? Eu sou Raiane!
-
-## Sobre mim: 
-
-* 🏜️ Tenho 20 anos e sou da Chapada Diamantina, Bahia. Sou apaixonada por tecnologia e projetos sociais.
-
-* 👩🏽‍💻 Vou cursar Ciências da Computação no [Instituto de Tecnologia e Liderança](https://www.inteli.edu.br/)
-
-* 📚 Participo de iniciativas como checagem de informações, desenvolvimento de aplicativos, sites e dispositivos, e, principalmente, ajudando pessoas. Minha palavra é interdisciplinaridade: adoro misturar tecnologia com outras áreas do conhecimento.
-  
-* 🏍️ Curiosidade: Amo pilotar! Seja no asfalto ou na estrada de terra, explorar o mundo sentindo o vento no rosto e a liberdade do caminho é minha atividade favorita longe dos computadores.
-
-* 🤝 Minha buddy é a querida [Cibele!](https://github.com/cl34-inteli)
-
-
 ## Tecnologias que tenho experiência:
 
 <div>
